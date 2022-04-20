@@ -1,0 +1,104 @@
+
+body{
+    margin: 0;
+}
+
+.banner-area{
+    background: #CACACA;
+}
+.banner-content{
+    background-color:#8D8D8D;
+    border: 1px solid white;
+}
+.navigation-area{
+    background-color: #262B37;
+}
+.navigation-area ul li a{
+    text-transform: uppercase;
+}
+.about-area{
+    background-color: #00BDBD;
+}
+.image{
+    border: 1px solid rebeccapurple;
+}
+.education-area{
+    background-color: #EEEEEE;
+}
+.title h4{
+    color: #FA9DA3;
+}
+.secondary-sum p{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 50px;
+    background-color:crimson;
+    color: aliceblue;
+}
+.secondary-det{
+    font-size: 22px;
+    color: cadetblue;
+    font-weight: bolder;
+    text-align: justify;
+}
+.highsecondary-sum p{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 50px;
+    background-color:crimson;
+    color: aliceblue;
+}
+.highsecondary-det{
+    font-size: 22px;
+    color: cadetblue;
+    font-weight: bolder;
+    text-align: justify;
+}
+.project,
+.card{
+    background-color: #2BB3DD;
+}
+.high{
+    color: black;
+}
+.contact-area{
+    background-color: #474D5D;
+}
+.box{
+    border: 1px solid white;
+    letter-spacing: 2px;
+}
+.box h3{
+    font-size: 55px;
+}
+
+.contact-area form input,
+.contact-area form textarea{
+    background-color: #585F73;
+}
+.contact-area form button{
+    padding: 15px 25px;
+    background-color:#FB857F;
+    border: 0;
+    margin-bottom: 30px;
+}
+.footer-area{
+    background-color: #00BDBD;
+}
+.footer-area cite{
+    font-size: 20px;
+}
+.footer-area ul li a i{
+    font-size: 45px;
+    border: 1px solid white;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: white;
+}
